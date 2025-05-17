@@ -1,2 +1,10 @@
 # Leave-Managment-System
-It is a project based on leave management system, where you can Manage employees and their leaves . you can add remove and update employee details and Leave details.
+Leave Management System
+
+A comprehensive desktop application built using Visual Studio 2022, Windows Forms, and C#, connected to a SQL Server database. The system streamlines employee leave management with three key modules:
+
+1. Employee: Manage employee information, including insertion, updation, and deletion.
+2. Leaves: Manage Leaves Approvel,pendings.
+3. Leave Report: Generate reports on leave history.
+
+This application aims to simplify leave management processes, improving efficiency.
