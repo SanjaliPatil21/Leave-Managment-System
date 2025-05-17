@@ -1,11 +1,35 @@
 # Leave-Managment-System
-Leave Management System
+Project Title: Leave Management System
+Project Description:
+The Leave Management System is a Windows Forms-based desktop application developed in C# to streamline the management of employee leave records in an organization. The system allows leave applications, and leave reports, all from a centralized and user-friendly interface.
 
-A comprehensive desktop application built using Visual Studio 2022, Windows Forms, and C#, connected to a SQL Server database. The system streamlines employee leave management with three key modules:
+Key Features:
+Employee Management: 
+Add, update, or delete employee records.
+Store detailed information such as Employee ID, Name, Gender, Date of Birth, Mobile Number, Address, Marital Status, and Department.
+View employee list in a tabular format with sorting and navigation options.
 
-1. Employee: Manage employee information, including insertion, updation, and deletion.
-2. Leaves: Manage Leaves Approvel,pendings.
-3. Leave Report: Generate reports on leave history.
+Leaves:
+For applying Leave,updating and Delete Leave records.
 
-This application aims to simplify leave management processes, improving efficiency.
+Leave Reports:
+
+Generate and view leave reports based on All Leaves taken,Approved,Pending,Rejected.
+
+User Interface:
+
+Modern, intuitive UI with categorized navigation: Employees, Leaves, Leave Reports.
+
+Data grid to display employee details clearly and concisely.
+
+Functional buttons: Insert, Update, Delete, Cancel for employee record management.
+
+Technologies Used:
+Frontend: C# Windows Forms
+
+Backend: SQL Server (for data storage and retrieval)
+
+Language: C#
+
+Database Connectivity: ADO.NET
 
