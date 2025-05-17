@@ -1,0 +1,13 @@
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.csproj.AssemblyReference.cache
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.Home.resources
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.LoginForm.resources
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.Properties.Resources.resources
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.csproj.GenerateResource.cache
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\bin\Debug\Leave_ManagementSystem.exe.config
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\bin\Debug\Leave_ManagementSystem.exe
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\bin\Debug\Leave_ManagementSystem.pdb
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.exe
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.pdb
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.Leaves.resources
+C:\Sanjali Patil\DotNet_C#\ProjectCsharp\Leave_ManagementSystem\Leave_ManagementSystem\obj\Debug\Leave_ManagementSystem.LeaveReport.resources
