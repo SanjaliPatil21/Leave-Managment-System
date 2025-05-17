@@ -8,3 +8,4 @@ A comprehensive desktop application built using Visual Studio 2022, Windows Form
 3. Leave Report: Generate reports on leave history.
 
 This application aims to simplify leave management processes, improving efficiency.
+
